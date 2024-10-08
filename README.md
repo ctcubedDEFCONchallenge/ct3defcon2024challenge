@@ -1,1 +1,1 @@
-# ct3defcon2024challenge
+# CFS_Beta_CTF
